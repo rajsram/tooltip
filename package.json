@@ -1,0 +1,25 @@
+{
+  "name": "dynamic_tooltip",
+  "version": "1.0.3",
+  "description": "dynamic tooltip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajsram/tooltip.git"
+  },
+  "keywords": [
+    "tooltip"
+  ],
+  "author": "RASH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajsram/tooltip/issues"
+  },
+  "homepage": "https://github.com/rajsram/tooltip#readme",
+  "directories": {
+    "example": "example"
+  }
+}
