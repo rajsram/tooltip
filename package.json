@@ -1,6 +1,6 @@
 {
   "name": "dynamic_tooltip",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "dynamic tooltip",
   "main": "index.js",
   "scripts": {
