@@ -68,7 +68,7 @@ document.getElementsByTagName('body')[0].addEventListener('mouseenter', function
             ele[i].addEventListener('mouseenter', mouseEnter, false);
         }
     }
-    function mouseEnter() {
+    function mouseEnter(e) {    
         let winHeight = window.innerHeight;
         let winWidth = window.innerWidth;
         let elProperties = this.getBoundingClientRect();//it contains height,width,top,right,bottom,left

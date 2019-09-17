@@ -9,10 +9,12 @@ Dynamic tool tip
 Than...
 
 <pre>
-script src="./dynamic_tooltip/index.js"
+< script src="./dynamic_tooltip/index.js">
                 or
 in angular.json
 "scripts": [
              "./node_modules/dynamic_tooltip/index.js"
            ]
+
+in HTML use < data-tooltip="tips">tool</>
 </pre>
